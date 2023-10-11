@@ -8,7 +8,7 @@ COPY ./serving ./serving
 # COPY ./images  ./images
 # COPY ./models ./models
 
-CMD ["uvicorn", "serving.app:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["uvicorn", "serving.app:app", "--host", "0.0.0.0", "--port", "8088"]
 
 
 # FROM python:3.10.10

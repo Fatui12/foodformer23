@@ -3,11 +3,11 @@ on: [push]
 
 env:
   AWS_REGION: us-east-2
-  ECR_REPOSITORY: food-former-demo
+  ECR_REPOSITORY: foodformer
   ECS_SERVICE: foodformer-ecs-serice
   ECS_CLUSTER: foodformer-ecs-cluster
-  ECS_TASK_DEFINITION: 
-  CONTAINER_NAME: 
+  ECS_TASK_DEFINITION: food-former-ecs-task-definition
+  CONTAINER_NAME: food-former-cointainer
 
 
 

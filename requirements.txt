@@ -1,0 +1,14 @@
+datasets
+fastapi
+gradio
+loguru
+mangum
+numpy
+Pillow
+pre-commit
+pydantic
+python-multipart
+pytorch-lightning
+torchmetrics 
+transformers
+uvicorn[standard]

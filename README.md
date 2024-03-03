@@ -6,5 +6,6 @@ The goal of this project is to create a food classification app powered by a Vis
 - Setting up a demo environment with GradIO
 - Continuous Deployment with GitHub Actions
 - Operational and functional monitoring with Grafana
+
 Here is the complete architecture diagram with tools icons:
 <img width="624" alt="image" src="https://github.com/Fatui12/foodformer23/assets/109190000/84b446ab-aa49-4dcd-b8ca-d8c3da4cadbd">
